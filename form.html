@@ -1,0 +1,26 @@
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+  <div id="form-container">
+      <div class="page-header text-center">
+          <img src="assets/images/logo.png" style="width: 200px; margin-bottom: 20px"/>
+
+          <div id="status-buttons" class="text-center">
+              <a ui-sref-active="active" ui-sref=".nation"><span>1</span> Nation</a>
+              <a ui-sref-active="active" ui-sref=".spieler"><span>2</span> Spieler</a>
+              <a ui-sref-active="active" ui-sref=".team"><span>3</span> Team</a>
+              <a ui-sref-active="active" ui-sref=".submit"><span>3</span> Submit</a>
+          </div>
+
+      </div>
+
+      <form id="signup-form" ng-submit="processForm()">
+          <div id="form-views" ui-view></div>
+      </form>
+
+  </div>
+  <pre>
+    {{ formData }}
+  </pre>
+</div>
+</div>
+
