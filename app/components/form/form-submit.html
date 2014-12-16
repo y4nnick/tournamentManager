@@ -1,0 +1,31 @@
+<style type="text/css">
+    #signup-form {overflow: hidden;}
+</style>
+<div class="text-center">
+    <h3 style="margin-top: 0px">Fast geschafft!</h3>
+    <label>Um dir eine Bestätigung zu schicken und dich im Notfall zu erreichen, brauchen wir noch deine E-Mail-Adresse und deine Handynummer</label>
+</div>
+<form name="userFieldForm" ng-submit="processSubmitForm(userFieldForm.$valid, userFieldForm.$pristine)">
+    <div class="form-group" style="width: 300px;margin-left: auto;margin-right: auto;margin-top: 10px"
+         ng-class="{ 'has-error' : isEmailInValid(userFieldForm) }">
+        <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+            <input class="form-control" placeholder="E-Mail-Adresse" name="email" type="text" ng-model="formData.email" ng-pattern="emailRegEx">
+       </div>
+       <p ng-show="isEmailInValid(userFieldForm)" class="help-block">Tragen deine E-Mail-Adresse ein</p>
+   </div>
+
+    <div class="form-group" style="width: 300px;margin-left: auto;margin-right: auto"
+         ng-class="{ 'has-error' : isHandyInValid(userFieldForm)}">
+        <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+            <input class="form-control" placeholder="Handynummer" name="handy" type="text" ng-model="formData.handy" ng-minlength="handynummerminlength">
+        </div>
+        <p ng-show="isHandyInValid(userFieldForm)" class="help-block">Tragen deine Handynummer ein</p>
+    </div>
+
+    <div class="text-center">
+        <button ng-show="!disableSubmitButton" type="submit" class="btn btn-danger">Abschicken</button>
+        <button ng-show="disableSubmitButton" type="submit" class="btn btn-danger" disabled>Abschicken</button>
+    </div>
+</form>

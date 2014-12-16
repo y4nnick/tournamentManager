@@ -1,0 +1,32 @@
+<style type="text/css">
+    #signup-form {overflow: hidden;}
+</style>
+
+<form name="spielerForm" ng-submit="processSpielerForm(spielerForm.$valid, spielerForm.$pristine)">
+
+    <!-- SPIELER 1 -->
+    <div class="form-group" ng-class="{ 'has-error' : (spielerForm.spieler1.$invalid || spielerForm.spieler1.$pristine) && (spielerForm.spieler1.$touched || spielerForm.$submitted)}">
+        <label >Spieler 1 *</label>
+        <input type="text" name="spieler1" class="form-control" ng-model="formData.spieler1" placeholder="Vor.- und Nachname" ng-pattern="spielerRegEx">
+        <p ng-show="(spielerForm.spieler1.$invalid || spielerForm.spieler1.$pristine) && (spielerForm.spieler1.$touched || spielerForm.$submitted)" class="help-block">Es muss ein Vor.- und ein Nachname eingetragen werden.</p>
+    </div>
+
+    <!-- SPIELER 2 -->
+    <div class="form-group" ng-class="{ 'has-error' : (spielerForm.spieler2.$invalid || spielerForm.spieler2.$pristine) && (spielerForm.spieler2.$touched || spielerForm.$submitted)}">
+        <label >Spieler 2 *</label>
+        <input type="text" name="spieler2" class="form-control" ng-model="formData.spieler2" placeholder="Vor.- und Nachname" ng-pattern="spielerRegEx">
+        <p ng-show="(spielerForm.spieler2.$invalid || spielerForm.spieler2.$pristine) && (spielerForm.spieler2.$touched || spielerForm.$submitted)" class="help-block">Es muss ein Vor.- und ein Nachname eingetragen werden.</p>
+    </div>
+
+    <!-- SPIELER 3 -->
+    <div class="form-group" ng-class="{ 'has-error' : (spielerForm.spieler3.$invalid || spielerForm.spieler3.$pristine) && (spielerForm.spieler3.$touched || spielerForm.$submitted)}">
+        <label >Spieler 3 *</label>
+        <input type="text" name="spieler3" class="form-control" ng-model="formData.spieler3" placeholder="Vor.- und Nachname" ng-pattern="spielerRegEx">
+        <p ng-show="(spielerForm.spieler3.$invalid || spielerForm.spieler3.$pristine) && (spielerForm.spieler3.$touched || spielerForm.$submitted)" class="help-block">Es muss ein Vor.- und ein Nachname eingetragen werden.</p>
+    </div>
+
+    <div style="width: 100px;margin-top: 10px;margin-left: auto">
+        <button  type="submit" class="btn btn-primary">Weiter <span class="glyphicon glyphicon-circle-arrow-right"></span></button>
+    </div>
+
+</form>

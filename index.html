@@ -1,36 +1,50 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Beach am Berg 2015</title>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
-
-   <script src="assets/js/angular.js"></script>
-    <script src="assets/js/angular-animate.js"></script>
-    <script src="assets/js/angular-ui-router.min.js"></script>
-    <script src="assets/js/angular-animate.js"></script>
-    <script src="app.js"></script>
+    <link rel="stylesheet" href="app/components/form/style.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
 
     <!-- Bootstrap -->
     <script src="assets/js/jquery-1.11.1.min.js"></script>
     <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
     <script src="assets/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="assets/css/bootstrap-formhelpers.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-formhelpers.css">
     <script src="assets/js/bootstrap-formhelpers.min.js"></script>
-    <script src="assets/js/bootstrap-formhelpers-states.js"></script>
-    <script src="assets/js/bootstrap-formhelpers-countries.de-DE.js"></script>
     <script src="assets/js/bootstrap-formhelpers-countries.js"></script>
+    <script src="assets/js/bootstrap-formhelpers-countries.de-DE.js"></script>
 
+    <!-- moved all angular related scripts to here -->
+    <script src="assets/js/angular.js"></script>
+    <script src="assets/js/angular-animate.js"></script>
+    <script src="assets/js/angular-ui-router.min.js"></script>
+    <script src="assets/js/angular-animate.js"></script>
 
-    <script src="directive.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/app.routes.js"></script>
+    <script src="app/shared/loader/loader.js"></script>
+    <script src="app/components/form/formController.js"></script>
+    <script src="app/shared/nationpicker/nationpicker.js"></script>
+    <script src="app/shared/nationshower/nationshower.js"></script>
+
+    <!-- Sweet Alert -->
+    <script src="assets/js/sweet-alert.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/sweet-alert.css">
 
 </head>
 <body ng-app="formApp">
-<!-- views will be injected here -->
 <div class="container">
-    <div ui-view>
-    </div>
+    <div ui-view></div>
 </div>
+<noscript>
+    <pre style="width: 80%;margin-left: 10%">
+
+        Bitte aktiviere Javascript in deinem Browser um dich Anzumelden.
+        Solltest du trotzdem Schwierigkeiten bei der Anmeldung haben melde dich bitte unter yannick@beachcrew.at
+    </pre>
+   </noscript>
 </body>
 </html>

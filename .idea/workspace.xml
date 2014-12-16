@@ -4,32 +4,77 @@
     <list default="true" id="23fe2963-ca69-431b-a2d4-071c0d00dbfa" name="Default" comment="" />
     <ignored path="bab.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/style.css" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415379949799" ignored="false" />
-    <file path="/form.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415373629774" ignored="false" />
+    <file path="/style.css" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418342175939" ignored="false" />
+    <file path="/form.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418174987167" ignored="false" />
     <file path="/spieleView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415184124818" ignored="false" />
     <file path="$PROJECT_DIR$/../LogIT_viewer/app/components/spiele/spieleView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415181543971" ignored="false" />
-    <file path="$PROJECT_DIR$/../LogIT_viewer/index.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415379715888" ignored="false" />
-    <file path="/index.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415567442388" ignored="false" />
-    <file path="$PROJECT_DIR$/../LogIT_viewer/app/components/spiele/anmeldungController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415182866052" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_viewer/index.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418171614059" ignored="false" />
+    <file path="/index.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418652922312" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_viewer/app/components/spiele/anmeldungController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418171625896" ignored="false" />
     <file path="/viewer.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415181716805" ignored="false" />
-    <file path="$PROJECT_DIR$/../LogIT_viewer/app/components/spiele/anmeldungView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415379571263" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_viewer/app/components/spiele/anmeldungView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416143644445" ignored="false" />
     <file path="$PROJECT_DIR$/../LogIT_viewer/app/shared/loader/loader.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415184192900" ignored="false" />
-    <file path="/loader.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415182121288" ignored="false" />
+    <file path="/loader.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418173548072" ignored="false" />
     <file path="$PROJECT_DIR$/../LogIT_viewer/app/app.module.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415182200286" ignored="false" />
     <file path="$PROJECT_DIR$/../LogIT_viewer/app/app.routes.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415182203183" ignored="false" />
-    <file path="$PROJECT_DIR$/../LogIT_viewer/assets/css/style.css" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415379949799" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_viewer/assets/css/style.css" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416135872840" ignored="false" />
     <file path="/anmeldungController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415182863758" ignored="false" />
-    <file path="$PROJECT_DIR$/../LogIT_test/rest/AnmeldService/.htaccess" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415183449870" ignored="false" />
-    <file path="$PROJECT_DIR$/../LogIT_test/rest/AnmeldService/api.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415184220371" ignored="false" />
-    <file path="/api.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415184065815" ignored="false" />
-    <file path="/anmeldungView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415379545068" ignored="false" />
-    <file path="/form-spieler.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415373577671" ignored="false" />
-    <file path="/form-team.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415373595543" ignored="false" />
-    <file path="/app.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415563987893" ignored="false" />
-    <file path="/form-nation.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415566574817" ignored="false" />
-    <file path="/form-submit.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415371211386" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/AnmeldService/.htaccess" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416084102966" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/AnmeldService/api.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418169824301" ignored="false" />
+    <file path="/api.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418172975777" ignored="false" />
+    <file path="/anmeldungView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416143642915" ignored="false" />
+    <file path="/form-spieler.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418146045461" ignored="false" />
+    <file path="/form-team.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418321545080" ignored="false" />
+    <file path="/app.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416067495218" ignored="false" />
+    <file path="/form-nation.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418321113833" ignored="false" />
+    <file path="/form-submit.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418321154588" ignored="false" />
     <file path="/test.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415395086569" ignored="false" />
-    <file path="/directive.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415566628231" ignored="false" />
+    <file path="/directive.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415984362024" ignored="false" />
+    <file path="/Dummy.txt" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1417867375465" ignored="false" />
+    <file path="/Vagrantfile" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415745399060" ignored="false" />
+    <file path="$USER_HOME$/synched/bab/form-nation.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415834627360" ignored="false" />
+    <file path="$USER_HOME$/synched/bab/directive.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415834599967" ignored="false" />
+    <file path="/bootstrap-formhelpers-countries.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415899174073" ignored="false" />
+    <file path="/bootstrap-formhelpers-countries.de-DE.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1415974727425" ignored="false" />
+    <file path="/formController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418337376410" ignored="false" />
+    <file path="/app.routes.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418340471516" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/api.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416087298295" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/rest.inc.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416085244987" ignored="false" />
+    <file path="/rest.inc.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416085208354" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/funcs.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416088024397" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_viewer/app/shared/nationshower/nationshower.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416140307476" ignored="false" />
+    <file path="/nationshower.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1416140262719" ignored="false" />
+    <file path="/nationpicker.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1417961013440" ignored="false" />
+    <file path="/dummy.xml" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418154295403" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/Manager/MailManager.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418172416388" ignored="false" />
+    <file path="/MailManager.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1417889163450" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/Manager/test" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1417887416056" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/core/class/Anmeldung.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418171884409" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/BewerbService/api.php" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418173688799" ignored="false" />
+    <file path="$PROJECT_DIR$/../LogIT_test/rest/BewerbService/.htaccess" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418173522904" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/spiele/spieleController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418652841737" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/app.module.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418338361179" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/index.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418652922312" ignored="false" />
+    <file path="/spieleController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418343686216" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/app.routes.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418340920143" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/assets/js/angular.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418338062543" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/monitorSpiele/monitorspieleController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418344107680" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/main/mainView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418339694626" ignored="false" />
+    <file path="/mainView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418339694273" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/main/main.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418339009733" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/spiele/spieleView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418340280772" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/monitor/monitor.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418340541643" ignored="false" />
+    <file path="/monitor.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418340537544" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/monitorSpiele/monitorspieleView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418342629529" ignored="false" />
+    <file path="/monitorspieleView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418342263970" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/monitorSpiele/style.css" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418342360035" ignored="false" />
+    <file path="/app.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418342442427" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/nav/app.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418342467031" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/shared/loader/loader.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418343244575" ignored="false" />
+    <file path="/monitorspieleController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418344079434" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/editSpiel/editspielView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418652824413" ignored="false" />
+    <file path="/editspielView.html" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418652824413" ignored="false" />
+    <file path="$PROJECT_DIR$/../play/app/components/editSpiel/editspielController.js" changelist="23fe2963-ca69-431b-a2d4-071c0d00dbfa" time="1418652983169" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,47 +94,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="0.44680852">
+            <state line="47" column="14" selection-start="2021" selection-end="2021" vertical-scroll-proportion="-17.833334">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="directive.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/directive.js">
+      <file leaf-file-name="form-team.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/form/form-team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
+            <state line="26" column="4" selection-start="1108" selection-end="1336" vertical-scroll-proportion="-16.25">
               <folding>
-                <element signature="e#207#489#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form-nation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form-nation.html">
+      <file leaf-file-name="form-submit.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/form/form-submit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="-4.375">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="14" column="53" selection-start="925" selection-end="925" vertical-scroll-proportion="-8.75">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="form-spieler.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/form/form-spieler.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="22" selection-start="966" selection-end="966" vertical-scroll-proportion="-15.0">
-              <folding>
-                <element signature="e#108#641#0" expanded="true" />
-                <element signature="e#868#909#0" expanded="true" />
-                <element signature="e#1896#3269#0" expanded="true" />
-              </folding>
+            <state line="26" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-16.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/form/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="51" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/form/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="91" selection-start="133" selection-end="220" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formController.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/components/form/formController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="51" selection-start="5115" selection-end="5115" vertical-scroll-proportion="0.29516995">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="5" selection-start="0" selection-end="176" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-ui-router.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/angular-ui-router.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.routes.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="6" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,25 +193,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/assets/components/spiele/anmeldungController.js" />
-        <option value="$PROJECT_DIR$/example.json" />
-        <option value="$PROJECT_DIR$/form-submit.html" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/form-spieler.html" />
-        <option value="$PROJECT_DIR$/form-team.html" />
-        <option value="$PROJECT_DIR$/assets/bootstrapformhelpers/test.html" />
-        <option value="$PROJECT_DIR$/test/index.html" />
-        <option value="$PROJECT_DIR$/test/bootstrap-formhelpers-countries.de-DE.js" />
-        <option value="$PROJECT_DIR$/assets/nationen.js" />
-        <option value="$PROJECT_DIR$/assets/js/bootstrap-formhelpers-countries.de-DE.js" />
-        <option value="$PROJECT_DIR$/form.html" />
+        <option value="$PROJECT_DIR$/app/shared/app.module.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/form-nation.html" />
-        <option value="$PROJECT_DIR$/directive.js" />
+        <option value="$PROJECT_DIR$/app/app.routes.js" />
+        <option value="$PROJECT_DIR$/app/shared/nationshower/nationshower.js" />
+        <option value="$PROJECT_DIR$/assets/js/angular.js" />
+        <option value="$PROJECT_DIR$/app/shared/nationpicker/nationpicker.js" />
+        <option value="$PROJECT_DIR$/app/components/form/form-spieler.html" />
+        <option value="$PROJECT_DIR$/assets/js/sweet-alert.min.js" />
+        <option value="$PROJECT_DIR$/app/shared/loader/loader.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/components/form/form-nation.html" />
+        <option value="$PROJECT_DIR$/app/components/form/form-submit.html" />
+        <option value="$PROJECT_DIR$/app/components/form/form-team.html" />
+        <option value="$PROJECT_DIR$/app/components/form/formController.js" />
+        <option value="$PROJECT_DIR$/app/app.module.js" />
+        <option value="$PROJECT_DIR$/app/components/form/form.html" />
       </list>
     </option>
   </component>
@@ -130,7 +230,7 @@
     <option name="width" value="1386" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -156,6 +256,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,7 +285,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -198,21 +299,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LogIT_viewer" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="options.lastSelected" value="web.server" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig">
+  <component name="PublishConfig" serverName="beachamberg" serverId="ebc44c3a-23be-4804-9b59-4a7966e305aa">
     <servers>
       <server id="4a171515-3947-44c3-bb0f-c38aa26e53ea">
         <serverdata>
@@ -235,25 +366,46 @@
           </mappings>
         </serverdata>
       </server>
+      <server id="ebc44c3a-23be-4804-9b59-4a7966e305aa">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="f41a429a-e303-48ee-8929-f208f47351d7">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
     </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/assets/bootstrapformhelpers/js" />
-      <recent name="$PROJECT_DIR$/assets/bootstrapformhelpers/css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/js" />
-      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/app/shared" />
       <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/components/form" />
+      <recent name="$PROJECT_DIR$/app/shared/nationpicker" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/assets/js" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -264,6 +416,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="23fe2963-ca69-431b-a2d4-071c0d00dbfa" name="Default" comment="" />
@@ -273,24 +442,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="23" width="1386" height="877" extended-state="6" />
-    <editor active="false" />
+    <frame x="54" y="23" width="1386" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35895523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15464684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19626866" sideWeight="0.8208169" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17918314" sideWeight="0.50074625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17918314" sideWeight="0.49925372" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -328,7 +498,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -357,123 +527,106 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap-formhelpers-states.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="14" selection-start="879" selection-end="879" vertical-scroll-proportion="0.4036827" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form-spieler.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="8" selection-start="512" selection-end="707" vertical-scroll-proportion="-9.375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nationen.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.15151516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="398" selection-end="398" vertical-scroll-proportion="0.10822511">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/bootstrap-formhelpers-countries.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.4674221">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/sweet-alert.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="37" selection-start="574" selection-end="574" vertical-scroll-proportion="0.5349794" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/sweet-alert.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="317" column="34" selection-start="13141" selection-end="13151" vertical-scroll-proportion="-142.8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/loader/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="24" selection-start="985" selection-end="985" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/form/form-nation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/nationpicker/nationpicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="0" selection-end="176" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/form/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="51" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/form/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="91" selection-start="133" selection-end="220" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/form/form-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="4" selection-start="1108" selection-end="1336" vertical-scroll-proportion="-16.25">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1016#1361#0" expanded="true" />
-            <element signature="e#1455#2136#0" expanded="true" />
-            <element signature="e#2169#2689#0" expanded="true" />
-            <element signature="e#3813#4099#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/index.html">
+    <entry file="file://$PROJECT_DIR$/app/components/form/form-spieler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="612" selection-end="732" vertical-scroll-proportion="0.38116592" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap-formhelpers.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="85" selection-start="211" selection-end="223" vertical-scroll-proportion="0.10853835">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="6" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.5635838" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/nationen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="28" selection-start="6872" selection-end="6872" vertical-scroll-proportion="4.6296296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap-formhelpers-countries.de-DE.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="20" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.20576131">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="55" selection-start="699" selection-end="699" vertical-scroll-proportion="0.31914893">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form-nation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="-4.375">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="22" selection-start="966" selection-end="966" vertical-scroll-proportion="-15.0">
-          <folding>
-            <element signature="e#108#641#0" expanded="true" />
-            <element signature="e#868#909#0" expanded="true" />
-            <element signature="e#1896#3269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#207#489#0" expanded="true" />
-          </folding>
+        <state line="26" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-16.25">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="0.44680852">
+        <state line="47" column="14" selection-start="2021" selection-end="2021" vertical-scroll-proportion="-17.833334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/form/form-submit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="53" selection-start="925" selection-end="925" vertical-scroll-proportion="-8.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/form/formController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="51" selection-start="5115" selection-end="5115" vertical-scroll-proportion="0.29516995">
           <folding />
         </state>
       </provider>

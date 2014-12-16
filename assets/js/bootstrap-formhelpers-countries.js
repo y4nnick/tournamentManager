@@ -50,7 +50,7 @@
       var country,
           countries;
 
-      if (this.options.available) {
+     if (this.options.available) {
         if (typeof this.options.available === 'string') {
           countries = [];
   
@@ -58,7 +58,7 @@
   
           for (country in BFHCountriesList) {
             if (BFHCountriesList.hasOwnProperty(country)) {
-              if ($.inArray(country, this.options.available) >= 0) {
+              if ($.inArray(country, this.options.available) < 0) {
                 countries[country] = BFHCountriesList[country];
               }
             }
@@ -113,7 +113,7 @@
       $options.html('');
 
       if (this.options.blank === true) {
-        $options.append('<li><a tabindex="-1" href="#" data-option=""></a></li>');
+        $options.append('<li><a tabin^dex="-1" href="#" data-option=""></a></li>');
       }
 
       for (country in countries) {
@@ -173,6 +173,7 @@
   $.fn.bfhcountries.defaults = {
     country: '',
     available: '',
+    remove: '',
     flags: false,
     blank: true
   };

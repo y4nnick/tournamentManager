@@ -3,14 +3,16 @@
 
 body
 {
-    padding-top:20px;
-    background: url('assets/images/background.jpg') no-repeat center center fixed;
+    padding-top:40px;
+    background: url('../../../assets/images/background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-pre                             { margin-bottom:20px; }
+pre {
+    margin-bottom:20px;
+}
 
 tr{
     color:#333333;
@@ -45,7 +47,7 @@ label {color:#555;}
 
 /* ANIMATION STYLINGS
 ============================================================================= */
-#signup-form            { position:relative; min-height:300px; overflow:hidden; padding:30px; }
+#signup-form            { position:relative; min-height:300px; overflow:visible;/* remove overflow:hidden from nation form*/ padding:30px; }
 
 /* basic styling for entering and leaving */
 /* left and right added to ensure full width */

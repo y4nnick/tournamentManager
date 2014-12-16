@@ -1,10 +1,13 @@
+<style type="text/css">
+    #signup-form {overflow: hidden;}
+</style>
 <div class="form-group">
     <label for="herkunft">Herkunft</label>
-    <input type="text" class="form-control" name="herkunft" placeholder="Geografischer Durchschnitt" ng-model="formData.herkunft">
+    <input type="text" class="form-control" name="herkunft" placeholder="Geografischer Durchschnitt" ng-model="formData.herkunft" autofocus>
 </div>
 
 <div class="form-group">
-    <label for="alter">Alter Gesamt?</label>
+    <label for="alter">Alter Gesamt</label>
     <input type="text" class="form-control" name="alter" placeholder="Alle drei zusammen" ng-model="formData.alter">
 </div>
 
@@ -19,9 +22,9 @@
 </div>
 
 <div class="form-group">
-    <label for="warum">Warum gewinnt Euer Team?</label>
+    <label for="warum">Warum gewinnt euer Team?</label>
     <input type="text" class="form-control" name="warum" ng-model="formData.warum">
-    <a ui-sref="form.submit" class="btn btn-block btn-info" style="width: 100px;margin-top: 10px;margin-left: auto">
-        Weiter <span class="glyphicon glyphicon-circle-arrow-right"></span>
-    </a>
-</div>
+    <div style="width: 100px;margin-top: 10px;margin-left: auto">
+        <button ng-click="goToSubmit()"  type="submit" class="btn btn-primary">Weiter <span class="glyphicon glyphicon-circle-arrow-right"></span></button>
+    </div>
+ </div>

@@ -1,0 +1,23 @@
+<div ng-hide="voll" class="row" ng-cloak>
+    <div class="col-sm-8 col-sm-offset-2">
+      <div id="form-container">
+          <div class="page-header text-center">
+              <img src="assets/images/logo.png" style="width: 200px; margin-bottom: 20px"/>
+
+              <div id="status-buttons" class="text-center">
+                  <a ui-sref-active="active" ui-sref=".nation"><span>1</span> Nation</a>
+                  <a ui-sref-active="active" ui-sref=".spieler"><span>2</span> Spieler</a>
+                  <a ui-sref-active="active" ui-sref=".team"><span>3</span> Team</a>
+                  <a ui-sref-active="active" ui-sref=".submit"><span>3</span> Submit</a>
+              </div>
+
+          </div>
+          <div id="signup-form" name="anmeldeForm">
+              <div id="form-views" ui-view></div>
+          </div>
+      </div>
+    </div>
+</div>
+<div ng-show="voll">
+
+</div>
